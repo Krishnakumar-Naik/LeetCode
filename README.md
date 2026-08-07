@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [1470-shuffle-the-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3731-find-missing-elements](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Enumeration
 |  |
 | ------- |
