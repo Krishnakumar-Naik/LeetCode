@@ -8,7 +8,7 @@ class Solution {
         while(!q.isEmpty()){
             sec++;
             int person=q.poll();
-            if(tickets[person]>=1){
+            if(tickets[person]>0){
                 tickets[person]--;
             }
             if(person==k && tickets[person]==0){
