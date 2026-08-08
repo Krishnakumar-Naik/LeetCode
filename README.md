@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0485-max-consecutive-ones](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0877-stone-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Monotonic Stack
@@ -64,18 +66,22 @@ A collection of LeetCode questions to ace the coding! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1406-stone-game-iii) |
 ## Queue
 |  |
