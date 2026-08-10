@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0636-exclusive-time-of-functions](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0877-stone-game) |
+| [1046-last-stone-weight](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1046-last-stone-weight) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
