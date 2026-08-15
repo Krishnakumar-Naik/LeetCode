@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0217-contains-duplicate](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0217-contains-duplicate) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3731-find-missing-elements) |
