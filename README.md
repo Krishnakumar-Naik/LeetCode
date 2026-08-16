@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0217-contains-duplicate) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
