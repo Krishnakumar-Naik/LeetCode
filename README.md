@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0038-count-and-say) |
 | [1927-sum-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
