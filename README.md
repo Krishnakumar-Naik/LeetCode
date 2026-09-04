@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0217-contains-duplicate](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -184,10 +185,15 @@ A collection of LeetCode questions to ace the coding! - Created using
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [1927-sum-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0191-number-of-1-bits) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
