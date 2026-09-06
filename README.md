@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0605-can-place-flowers) |
 | [0636-exclusive-time-of-functions](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0704-binary-search](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0739-daily-temperatures) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0605-can-place-flowers](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0605-can-place-flowers) |
 | [1927-sum-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Divide and Conquer
