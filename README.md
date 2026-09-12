@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0038-count-and-say) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0504-base-7](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0504-base-7) |
 | [1768-merge-strings-alternately](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1927-sum-game) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1768-merge-strings-alternately](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1768-merge-strings-alternately) |
