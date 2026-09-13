@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0258-add-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0263-ugly-number) |
 | [0504-base-7](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0509-fibonacci-number) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
