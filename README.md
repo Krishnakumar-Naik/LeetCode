@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [2073-time-needed-to-buy-tickets](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2582-pass-the-pillow](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2582-pass-the-pillow) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [1406-stone-game-iii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1406-stone-game-iii) |
 | [1927-sum-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1927-sum-game) |
 | [2582-pass-the-pillow](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2582-pass-the-pillow) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3870-count-commas-in-range) |
