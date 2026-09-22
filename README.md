@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0084-largest-rectangle-in-histogram](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1046-last-stone-weight) |
 ## Sliding Window
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -247,4 +251,8 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0258-add-digits) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
