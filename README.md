@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0038-count-and-say) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0389-find-the-difference) |
