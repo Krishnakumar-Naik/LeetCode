@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [1470-shuffle-the-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1539-kth-missing-positive-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Greedy
 |  |
