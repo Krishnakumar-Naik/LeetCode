@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0636-exclusive-time-of-functions](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0636-exclusive-time-of-functions) |
+| [0678-valid-parenthesis-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1406-stone-game-iii) |
 ## Minimax
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0389-find-the-difference](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0389-find-the-difference) |
 | [0504-base-7](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0504-base-7) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0678-valid-parenthesis-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1927-sum-game) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1927-sum-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -266,4 +270,8 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
