@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -291,4 +292,8 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
