@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0038-count-and-say](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0038-count-and-say) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0389-find-the-difference) |
+| [0459-repeated-substring-pattern](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0504-base-7) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -300,5 +301,14 @@ A collection of LeetCode questions to ace the coding! - Created using
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0796-rotate-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
