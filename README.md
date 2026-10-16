@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [1539-kth-missing-positive-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2057-smallest-index-with-equal-value](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
