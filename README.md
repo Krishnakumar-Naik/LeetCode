@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0349-intersection-of-two-arrays](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -327,4 +328,8 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
