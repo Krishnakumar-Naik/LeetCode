@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0739-daily-temperatures](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1046-last-stone-weight) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0414-third-maximum-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3731-find-missing-elements) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0367-valid-perfect-square](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Greedy
