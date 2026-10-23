@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0136-single-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0389-find-the-difference) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Prefix Sum
 |  |
 | ------- |
