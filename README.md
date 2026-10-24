@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [1406-stone-game-iii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1406-stone-game-iii) |
 | [1688-count-of-matches-in-tournament](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1927-sum-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2582-pass-the-pillow](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [1021-remove-outermost-parentheses](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3803-count-residue-prefixes](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3803-count-residue-prefixes) |
