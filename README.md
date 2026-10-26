@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0509-fibonacci-number) |
@@ -171,11 +172,13 @@ A collection of LeetCode questions to ace the coding! - Created using
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1406-stone-game-iii) |
 | [1927-sum-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1927-sum-game) |
@@ -353,4 +356,16 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
