@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0884-uncommon-words-from-two-sentences](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1446-consecutive-characters](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1446-consecutive-characters) |
 | [1768-merge-strings-alternately](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2409-count-days-spent-together) |
