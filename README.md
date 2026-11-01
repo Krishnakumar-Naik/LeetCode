@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0263-ugly-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0504-base-7](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0728-self-dividing-numbers) |
