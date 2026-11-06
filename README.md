@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0605-can-place-flowers) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0389-find-the-difference](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0561-array-partition) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0561-array-partition) |
 | [0819-most-common-word](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0561-array-partition](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0680-valid-palindrome-ii) |
