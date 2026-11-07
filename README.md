@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1748-sum-of-unique-elements](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2057-smallest-index-with-equal-value](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [1346-check-if-n-and-its-double-exist](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1748-sum-of-unique-elements](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0819-most-common-word](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Stack
