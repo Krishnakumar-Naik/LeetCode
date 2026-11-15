@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0485-max-consecutive-ones](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0605-can-place-flowers) |
 | [0636-exclusive-time-of-functions](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0636-exclusive-time-of-functions) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0819-most-common-word](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0414-third-maximum-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0219-contains-duplicate-ii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
