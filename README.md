@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [1688-count-of-matches-in-tournament](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2582-pass-the-pillow](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2582-pass-the-pillow) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [1446-consecutive-characters](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1446-consecutive-characters) |
 | [1768-merge-strings-alternately](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
