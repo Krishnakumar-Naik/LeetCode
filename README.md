@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1748-sum-of-unique-elements](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1927-sum-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1927-sum-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2582-pass-the-pillow](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -424,4 +427,12 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0292-nim-game) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
