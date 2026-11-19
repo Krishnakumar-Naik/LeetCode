@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0819-most-common-word](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1189-maximum-number-of-balloons](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0594-longest-harmonious-subsequence](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1189-maximum-number-of-balloons](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1154-day-of-the-year](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1154-day-of-the-year) |
+| [1189-maximum-number-of-balloons](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1446-consecutive-characters](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1446-consecutive-characters) |
 | [1768-merge-strings-alternately](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1768-merge-strings-alternately) |
