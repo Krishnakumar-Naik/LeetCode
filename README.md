@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0594-longest-harmonious-subsequence](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0704-binary-search](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0739-daily-temperatures) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0877-stone-game) |
 | [1154-day-of-the-year](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1154-day-of-the-year) |
