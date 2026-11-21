@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0819-most-common-word](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0561-array-partition](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0594-longest-harmonious-subsequence](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1051-height-checker](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1051-height-checker) |
 | [1189-maximum-number-of-balloons](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -445,4 +448,8 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
