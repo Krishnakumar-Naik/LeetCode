@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [1346-check-if-n-and-its-double-exist](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [1189-maximum-number-of-balloons](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [1406-stone-game-iii](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1406-stone-game-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1927-sum-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2409-count-days-spent-together) |
