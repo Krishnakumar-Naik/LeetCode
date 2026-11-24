@@ -6,8 +6,7 @@ class Solution {
         }
         String[] ans=new String[names.length];
         for(int j=0;j<names.length;j++){
-            String k=hm.get(Collections.max(hm.keySet()));
-            ans[j]=k;
+            ans[j]=hm.get(Collections.max(hm.keySet()));
             hm.remove(Collections.max(hm.keySet()));
         }
         return ans;
