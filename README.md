@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [2582-pass-the-pillow](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Design
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String
 |  |
 | ------- |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | ------- |
 | [0258-add-digits](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Quickselect
 |  |
 | ------- |
