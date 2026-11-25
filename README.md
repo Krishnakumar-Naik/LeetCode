@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0739-daily-temperatures](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1089-duplicate-zeros) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0561-array-partition](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0594-longest-harmonious-subsequence](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0912-sort-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1051-height-checker) |
 | [1189-maximum-number-of-balloons](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0912-sort-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1046-last-stone-weight) |
 ## Sliding Window
 |  |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0912-sort-an-array) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -464,4 +469,16 @@ A collection of LeetCode questions to ace the coding! - Created using
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/1051-height-checker) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
