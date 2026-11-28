@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding! - Created using
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0504-base-7) |
+| [0551-student-attendance-record-i](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Krishnakumar-Naik/LeetCode/tree/master/0678-valid-parenthesis-string) |
